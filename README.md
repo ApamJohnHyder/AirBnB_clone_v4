@@ -154,7 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Marcus Imagwe- https://github.com/ApamJohnHyder 
+Apam John Hyder- 
+https://github.com/ApamJohnHyder 
 
 ## License
 Public Domain. No copy write protection. 
